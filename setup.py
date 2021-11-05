@@ -3,7 +3,7 @@
 
 
 from setuptools import setup,find_packages
-setup(name='foo',
+setup(name='foo-pkg-Liudongbo',
       version='0.1',
       description='a small example',
       url='https://github.com/lwxGitHub123/foo/',

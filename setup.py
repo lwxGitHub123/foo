@@ -10,7 +10,7 @@ setup(name='testtest',
       url='https://github.com/lwxGitHub123/foo/',
       author='liudongbo',
       author_email='350272438@qq.com',
-      license='NEU',
+      license='MIT Licence',
       packages=find_packages(),
       zip_safe=True
      )

@@ -4,7 +4,7 @@
 
 from setuptools import setup,find_packages
 setup(name='foo-pkg-Liudongbo',
-      version='0.2',
+      version='0.3',
       description='a small example',
       url='https://github.com/lwxGitHub123/foo/',
       author='liudongbo',
